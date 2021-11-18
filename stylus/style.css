@@ -1,0 +1,14 @@
+@-moz-document url-prefix(https://discord.com/), url-prefix(http://discord.com)
+{
+
+    .theme-dark {
+        --background-primary: #282828;
+        --channeltextarea-background: #1d2021;
+        --background-secondary: #1d2021;
+    }
+
+    .body--home, .site-wrapper--home, form {
+        background-color: #282828;
+    }
+}
+
